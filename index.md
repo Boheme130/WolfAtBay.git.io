@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## The Wolf At Bay
 
-You can use the [editor on GitHub](https://github.com/Boheme130/WolfAtBay.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://www.tripsavvy.com/thmb/3ajlx4a69FvcFuhw_Z5-canHgOE=/3000x2000/filters:no_upscale():max_bytes(150000):strip_icc()/MichiganTheater-647ae81db65c4f9db3847e28b30998f3.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：The Wolf At Bay <br>
+作者：Charlie Adhara <br/>
+评分：5.5/5 <br/>
+Big Bad Woolf系列最喜欢的一部 <br/>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+故事开始于我生活中的城市：在风景旖旎的安娜堡中心步行街💙💛💙，库博和Oliver要来调查一起花店老板洗钱案件。站在花店门外，库博想起了和Oliver一起看电影的夜晚。库博喜欢好莱坞爆米花片，但拥有文学phd的Oliver喜欢文艺片，一次他逼库博看某部旧版《仲夏夜之梦》，问库博是否觉得感情就像被戏剧里的那种魔法花一样，让陷入其中的人为爱盲目。
 
-```markdown
-Syntax highlighted code block
+经历了佛罗里达的案件之后，库博和Oliver开始了固定的肉体关系，但他们之间仍然缺乏情感交流。库博甚至不知道他们能否发展为恋人。Oliver对库博保护欲过强，让独立自主的库博很不舒服。花店洗钱案引爆了两人争吵，库博擅自单独行动导致受伤，Oliver出于关心的斥责让库博忍无可忍，两人冷战。在从安娜堡回华盛顿的路上，库博接到了父亲的电话：库博居然忘记了哥哥的订婚晚会！无奈之下，库博只好拉着Oliver顺路先去一趟家乡马里兰。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/WolfAtBay.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+一具陈年尸体在父亲后院被掘出，这是母亲外遇的尸体，父亲支支吾吾不敢辩解，所有证据都指向了父亲。父亲反常的反应，怪异的五户邻居，母亲的往事，本地的财团，受害者死亡前拍到的狼人照片，25年前的选美大赛，大赛前突然死去的邻居女儿，本地的狼人……库博被交织在一系列看似不相干的事件中，他力图还父亲清白，但他和父亲的关系不断僵化，另一边，库博和Oliver的情感产生了变化，他们能否正式确定恋人关系
