@@ -1,6 +1,10 @@
 ## The Wolf At Bay
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+
 
 ![avatar](https://www.tripsavvy.com/thmb/3ajlx4a69FvcFuhw_Z5-canHgOE=/3000x2000/filters:no_upscale():max_bytes(150000):strip_icc()/MichiganTheater-647ae81db65c4f9db3847e28b30998f3.jpg)
+<br>
+<br>
 
 作品：The Wolf At Bay <br>
 作者：Charlie Adhara <br/>
